@@ -1,0 +1,12 @@
+c:\users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\HelloPi.exe.config
+c:\users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\HelloPi.exe
+c:\users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\HelloPi.pdb
+c:\users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\obj\Debug\HelloPi.exe
+c:\users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\obj\Debug\HelloPi.pdb
+C:\Users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\Raspberry.IO.GeneralPurpose.dll
+C:\Users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\Raspberry.System.dll
+C:\Users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\RaspberryPiDotNet.dll
+C:\Users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\Raspberry.IO.GeneralPurpose.xml
+C:\Users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\Raspberry.System.xml
+C:\Users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\RaspberryPiDotNet.pdb
+C:\Users\bryan\documents\visual studio 2013\Projects\HelloPi\HelloPi\bin\Debug\RaspberryPiDotNet.xml
